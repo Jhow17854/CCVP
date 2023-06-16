@@ -276,7 +276,7 @@ Error generating stack: `+o.message+`
     margin-bottom: 0;
   }
 `,_0=tt.ul`
-  display: flex;
+  display: none;
   flex-direction: column;
   position: absolute;
   top: 100%;
